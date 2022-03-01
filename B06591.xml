@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch riddle unfolded: or, Reflections upon R.VV. his most lamentable ballad, called The loyal non-conformist.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06591</idno>
+            <idno type="STC">Wing W2149</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[199]</idno>
+            <idno type="EEBO-CITATION">99885027</idno>
+            <idno type="PROQUEST">ocm99885027</idno>
+            <idno type="VID">182868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182868)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[200])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch riddle unfolded: or, Reflections upon R.VV. his most lamentable ballad, called The loyal non-conformist.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Stand up Smectymnuus, and hear thy tryal ..."</note>
+                  <note>Although Wing attributes this to Robert Wild, it is actually a reply to Wild's "Loyal nonconformist". Cf. DNB s.v. Wild, Robert.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wild, Robert, 1609-1679. --  Loyal nonconformist --  Poetry --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Controversial literature --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182868:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>The SCOTCH Riddle Unfolded: <hi>OR,</hi> Reflections upon <hi>R. VV.</hi> his moſt Lamentable BALLAD, CALLED <hi>The LOYAL NON-CONFORMIST.</hi>
+            </head>
+            <lg>
+               <l>STand up <hi>Smectymnuus,</hi> and hear thy tryal;</l>
+               <l>Thy monſtrous <hi>Title</hi> puts me to a pauſe:</l>
+               <l>Was ever any <hi>Non-Conformiſt</hi> Loyal?</l>
+               <l>Love he the <hi>King</hi> that diſobeys his <hi>Laws?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet he can Swear, and yet he fears to Swear;</l>
+               <l>For Solemn Oaths they muſt have ſacred grounds:</l>
+               <l>The Oaths of <hi>Scotland</hi> coſt poor <hi>England</hi> dear,</l>
+               <l>That Swore from <hi>Faith</hi> and <hi>Troth,</hi> to <hi>Blood</hi> and <hi>Wounds.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis truth, old <hi>Boreas</hi> never could blow <hi>Weſt;</hi>
+               </l>
+               <l>And you may note a <hi>Non-Conformiſts</hi> mouth</l>
+               <l>What ere he ſayes, what ere he doth proteſt,</l>
+               <l>Stands (like <hi>Emanuel</hi> Chappel) <hi>North</hi> and <hi>South.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He fears an <hi>Oath,</hi> as <hi>Lawyers</hi> do a <hi>bribe,</hi>
+               </l>
+               <l>Though he diſſembles a Religious dread;</l>
+               <l>For 'tis well known that all that factious <hi>Tribe,</hi>
+               </l>
+               <l>Swallow'd the Covenant <hi>Hand over head.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That <hi>Covenant,</hi> in which the People Swore</l>
+               <l>They knew not what: 'Twas ſuch another thing</l>
+               <l>As <hi>Satans Oracles,</hi> of <hi>Torletons Lore,</hi>
+               </l>
+               <l>That cry'd <hi>Forbear,</hi> yet whiſper'd <hi>Kill the King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That <hi>curſed Covenant,</hi> which he that now</l>
+               <l>Abjures is free; but he that keeps it finds</l>
+               <l>Himſelf a <hi>baffled Samſon,</hi> and his Vow</l>
+               <l>A <hi>Dalilah,</hi> for whom it <hi>binds</hi> it <hi>blinds.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How vainly do their looſe pretenſes guild</l>
+               <l>That <hi>Warbeck principle,</hi> call'd <hi>Conſcience,</hi> which,</l>
+               <l>Like <hi>Jone</hi> of <hi>Arc,</hi> leads Troops into the field,</l>
+               <l>She ſtiles her ſelf a <hi>Saint,</hi> yet proves a <hi>Witch.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If <hi>Truth</hi> hath any virtue to convince:</l>
+               <l>If <hi>Pulpits</hi> can ſpeak better things then <hi>Tubs:</hi>
+               </l>
+               <l>This <hi>Conſcience</hi> owes <hi>Allegiance</hi> to her <hi>Prince;</hi>
+               </l>
+               <l>The <hi>King</hi> of <hi>Hearts</hi> command the <hi>Queen</hi> of <hi>Clubs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But is't not ſtrange the <hi>Bramble</hi> ſhould defend</l>
+               <l>
+                  <hi>Joves</hi> ſacred Tree, that lately did aſpire</l>
+               <l>Not only th' <hi>Ivy,</hi> but the <hi>Oak</hi> to rend,</l>
+               <l>And (like a <hi>Traytour</hi>) ſet the Wood on fire,</l>
+            </lg>
+            <lg>
+               <l>Yet talk'd of <hi>Loyalty;</hi> but what he meant</l>
+               <l>Some Conjurer expound, but to Obey</l>
+               <l>
+                  <hi>Moſes</hi> and flee from wicked <hi>Korah's</hi> tent,</l>
+               <l>Is <hi>Holy Writ,</hi> and not <hi>Apocraphâ.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor care I though th' <hi>Apocrapha</hi> were not,</l>
+               <l>And yet I do believe that Antient ſtory</l>
+               <l>Of <hi>Bell</hi> and <hi>Dragon</hi> cannot be forgot,</l>
+               <l>If there be extant ere a <hi>Directory.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Machabees</hi> ſhall flouriſh like <hi>Italians,</hi>
+               </l>
+               <l>And after ages ſhall not be bereft</l>
+               <l>Of chaſt <hi>Suſanna,</hi> and her <hi>pair</hi> of <hi>Stallions,</hi>
+               </l>
+               <l>Whileſt we have <hi>Church,</hi> or they have <hi>Elders</hi> left.</l>
+            </lg>
+            <lg>
+               <l>What our great <hi>Prelates</hi> doe, and what they are,</l>
+               <l>God and the King ſhall queſtion; we're forbid:</l>
+               <l>Yet they that do the worſt, doe better far</l>
+               <l>Then the <hi>Smectymnian</hi> party <hi>wiſh</hi> they did.</l>
+            </lg>
+            <lg>
+               <l>Their Biſhopricks (againſt the falſe <hi>Kirk</hi>'s will)</l>
+               <l>Have outliv'd <hi>Sedwick</hi>'s <hi>Doomes-day;</hi> and I hope</l>
+               <l>Each <hi>Dioceſs</hi> will keep her <hi>Croſier</hi> ſtill,</l>
+               <l>And not let ev'ry <hi>Pariſh</hi> have a <hi>Pope.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What was St. <hi>Peter</hi>'s Office, what his Trade,</l>
+               <l>The <hi>Goſpel</hi> gives us a moſt clear Narration;</l>
+               <l>It doth not ſay his <hi>Fiſhing Nets</hi> were made</l>
+               <l>Of <hi>Treaſon, Sacriledge,</hi> or <hi>Sequeſtration.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That he nere taught the <hi>Presbyterian way</hi>
+               </l>
+               <l>Doth well appear by his Divine Epiſtles:</l>
+               <l>And (though he Preach'd as often as they ſay)</l>
+               <l>He never Preach'd for <hi>Bodkins, Spoons,</hi> and <hi>Whiſtles.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Peace then foul Mouth's, be ſtill unhallow'd pates;</l>
+               <l>Make not the <hi>Church</hi> the ſubject of your Jeers,</l>
+               <l>But reckon Dr. <hi>Baſtwick</hi> and his mates</l>
+               <l>
+                  <hi>Uncircumcis'd</hi> of <hi>heart,</hi> though not of <hi>ears.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Proud <hi>Presbyters;</hi> remember, <hi>Thirty pieces</hi>
+               </l>
+               <l>Was all the <hi>fees</hi> the <hi>Jews</hi> ere gave your <hi>Patron:</hi>
+               </l>
+               <l>If <hi>London Sheep</hi> had born no better <hi>fleeces</hi>
+               </l>
+               <l>Dame <hi>Calamy</hi> had been a <hi>Thread-bare Matron.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet who is't does not think your <hi>ſniveling Brother</hi>
+               </l>
+               <l>Would <hi>ſwing his Handkercher</hi> over <hi>Pauls ſteeple,</hi>
+               </l>
+               <l>And wear as high s Miter as another,</l>
+               <l>But he's a <hi>Phariſee</hi> and <hi>fears the People.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As for <hi>Church Veſtments,</hi> Hemp we will beſtow</l>
+               <l>On <hi>Snarling Prieſts</hi> that mouth againſt the King,</l>
+               <l>And he that comes into the Church <hi>by th' Bow,</hi>
+               </l>
+               <l>'Tis Juſtice that he ſhould go out <hi>by th' ſtring.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But if the <hi>Gallows</hi> ere ſhould have her right:</l>
+               <l>
+                  <hi>As who knows what may be</hi> (dear <hi>Smec.</hi> perhaps</l>
+               <l>'T may be thy day) 'twould be a pretty ſight</l>
+               <l>To ſee the Hangman wear a <hi>brace of Caps.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Was any of <hi>Pauls</hi> Books or Parchments found</l>
+               <l>In <hi>Byfields Regiſtry</hi> (my good Divines?)</l>
+               <l>Although his <hi>Cloak</hi> was long and ſwept the ground,</l>
+               <l>'Twoud be too ſhort to <hi>cover your deſigns.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hence then ye <hi>Catterpillers,</hi> Dregs of Men,</l>
+               <l>Hence <hi>Pulpit Blood-hounds,</hi> hence <hi>Seditious pack:</hi>
+               </l>
+               <l>
+                  <hi>Bow Bells</hi> ſhall never ſay <hi>Return again,</hi>
+               </l>
+               <l>Although perhaps the <hi>Ropes</hi> may call ye back.</l>
+            </lg>
+            <lg>
+               <l>And farwel <hi>Wild,</hi> with all thy learned Meeters,</l>
+               <l>Poſterity ſhall laugh, and picture thee</l>
+               <l>On the ſame Sign with <hi>Archee,</hi> and <hi>Hugh Peters,</hi>
+               </l>
+               <l>And under-write this Motto, <hi>Wee be three.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year; 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
